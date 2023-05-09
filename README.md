@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Full%20Stack%20Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=bestswlkh0310)
- <img src="https://github-readme-stats.vercel.app/api?username=bestswlkh0310&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a>
-###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507)](https://solved.ac/hhhello0507/)
 
 # SKILLS
 ### Platforms & Languages
@@ -15,3 +12,7 @@
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
+ <img src="https://github-readme-stats.vercel.app/api?username=bestswlkh0310&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a>
+###
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507)](https://solved.ac/hhhello0507/)
