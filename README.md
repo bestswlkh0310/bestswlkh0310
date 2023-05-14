@@ -18,3 +18,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bestswlkh0310&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     <br>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestswlkh0310&layout=compact&theme=demo">
