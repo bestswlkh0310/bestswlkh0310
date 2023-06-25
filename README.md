@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Full%20Stack%20Developer&fontSize=80&animation=fadeIn&fontAlignY=40&desc=bestswlkh0310">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Science%20Fiction%20Novelist&fontSize=70&animation=fadeIn&fontAlignY=40&desc=bestswlkh0310">
     <h1>SKILLS</h1>
     <h3>Platforms & Languages</h3>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
