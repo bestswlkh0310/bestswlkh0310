@@ -1,7 +1,7 @@
 <div align="center"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Science%20Fiction%20Novelist&fontSize=70&animation=fadeIn&fontAlignY=40&desc=bestswlkh0310">
     <h1>CONTACT</h1>
-    <a href="hhhello0507@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=#ff0000&link=mailto:wonjongah@gmail.com"/></a>
+    <a href="mailto:hhhello0507@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=#ff0000&link=mailto:wonjongah@gmail.com"/></a>
     <h1>SKILLS</h1>
     <h3>Platforms & Languages</h3>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
