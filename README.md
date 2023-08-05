@@ -1,6 +1,7 @@
-<div align="center"> 
-    <h1>CONTACT</h1>
-    <a href="mailto:hhhello0507@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=#ff0000&link=mailto:wonjongah@gmail.com"/></a>
+
+<h3>안녕하세요 AI/임베디드 개발자가 꿈인 이강현입니다</h3>
+email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
+<div align="center">
     <h1>SKILLS</h1>
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
