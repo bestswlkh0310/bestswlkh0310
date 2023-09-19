@@ -4,7 +4,7 @@
 <h4>I am interested in various fields such as AI, IOT, AR, VR, MR, hologram, blockchain, etc.</h4>
 email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
 <div align="center">
-    <h1>SKILLS</h1>
+<!--     <h1>SKILLS</h1>
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -39,7 +39,7 @@ email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/> 
-    <img     src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+    <img     src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/> -->
     <h1>ME</h1>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestswlkh0310&layout=compact&theme=demo">
