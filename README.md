@@ -1,7 +1,7 @@
 
-<h3>안녕하세요 상상을 현실로 만드는 개발자 이강현입니다</h3>
-<h4>현재는 모바일 앱 개발 및 서버 개발을 하고 있습니다</h4>
-<h4>AI, IOT, AR, VR, MR, 홀로그램, 블로체인 등 다양한 분야에 관심이 많습니다</h4>
+<h3>Hello, I am Lee Kang-hyeon, a developer who turns imagination into reality</h3>
+<h4>Currently working on mobile app and server development</h4>
+<h4>I am interested in various fields such as AI, IOT, AR, VR, MR, hologram, blockchain, etc.</h4>
 email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
 <div align="center">
     <h1>SKILLS</h1>
