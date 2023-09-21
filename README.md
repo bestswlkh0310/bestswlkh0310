@@ -3,7 +3,7 @@
 <h4>Currently working on mobile app and server development</h4>
 <h4>I am interested in various fields such as AI, IOT, AR, VR, MR, hologram, blockchain, etc.</h4>
 email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
-<div align="center">
+<!-- <div align="center"> -->
 <!--     <h1>SKILLS</h1>
     <h3>Languages</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
