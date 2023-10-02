@@ -1,7 +1,5 @@
 
-<h3>Hello, I am Lee Kang-hyeon, a developer who turns imagination into reality</h3>
-<h4>Currently working on mobile app and server development</h4>
-<h4>I am interested in various fields such as AI, IOT, AR, VR, MR, hologram, blockchain, etc.</h4>
+<h2>Inventor</h2>
 email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
 <!-- <div align="center"> -->
 <!--     <h1>SKILLS</h1>
@@ -40,6 +38,6 @@ email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/> 
     <img     src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/> -->
-    <h1>ME</h1>
+    <h3>ME</h3>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestswlkh0310&layout=compact&theme=demo">
