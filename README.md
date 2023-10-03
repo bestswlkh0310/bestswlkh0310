@@ -39,5 +39,6 @@ email - <a href="mailto:hhhello0507@gmail.com">hhhello0507@gmail.com</a>
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/> 
     <img     src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/> -->
     <h3>ME</h3>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestswlkh0310&layout=compact&theme=demo">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hhhello0507"/>
+    <img src="https://leetcard.jacoblin.cool/bestswlkh0310?theme=light"/>
